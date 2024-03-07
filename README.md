@@ -14,3 +14,4 @@ START=$(find $HOME -iname remove_older_kernel.sh); bash $START
 
 ```
 
+[Link zum YouTube Video](https://www.youtube.com/watch?v=NwxrXy_nUPw)
