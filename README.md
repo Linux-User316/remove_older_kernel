@@ -6,7 +6,9 @@
 
 * **Ich verwende es in Debian und Ubuntu.**
 
-* **Bedienung möglich über diesen Einzeiler: Kopieren und im Terminal einfügen.**
+* **Bedienung möglich über diesen Einzeiler:**
+
+* **Kopieren und im Terminal einfügen.**
 
 ```
 
