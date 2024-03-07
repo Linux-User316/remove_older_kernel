@@ -1,4 +1,4 @@
-# Mein Shell Script um altere Kernel zu entferen.
+## Mein Shell Script um altere Kernel zu entfernen.
 
 * **Dieses Script entfernt nur den dritten und vierten alterten Kernel.**
 
